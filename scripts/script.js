@@ -1,4 +1,4 @@
-function mostrarMensagem (){
-    document.getElementById("mensagem").innerHTML =
-    "Parabens! Seu Projeto está funcionando corretamente.";
-}
+
+window.onload = function() {
+    alert("bem-vindo ao Site Full Stack Tarde!");
+};
